@@ -332,4 +332,5 @@ int main() {
     float tonaj = (float) t5;
     cout << "Tonajul tirului este:" << tonaj << endl;
     delete [] prod;
+	return 0;
 }
