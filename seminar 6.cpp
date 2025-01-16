@@ -256,4 +256,5 @@ int main() {
 	if (m2 < m1) {
 
 	}
+	return 0;
 }
