@@ -404,5 +404,6 @@ char aux[20];
 		delete produse[i];
 	}
 	delete[]produse;
+return 0;
 
 }
