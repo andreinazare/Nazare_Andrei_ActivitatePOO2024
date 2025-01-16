@@ -419,4 +419,6 @@ int main() {
 	masina1.citesteFisierBinar(fisierBinar1);
 	cout << masina1;
 	fisierBinar1.close();
+
+	return 0;
 }
